@@ -22,7 +22,7 @@ For this project, purpose is to understand the results of an A/B test run by an 
 ### Files used
 + Datasets
 > + ab_data.csv
-  + countries.csv
+> + countries.csv
 
 ### Credits
 + Data provided by: [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
